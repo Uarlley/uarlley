@@ -6,7 +6,7 @@ A self-taught Software Developer from Brazil specializing in Cloud Computing, De
 
 ---
 
-### 🤖 Languages and Tecnologies
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
