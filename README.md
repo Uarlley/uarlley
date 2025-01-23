@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-A self-taught Software Developer from Brazil specializing in Cloud Computing, DevOps, Mobile and Web Development and Programming Competitions with a strong passion for problem-solving.
+A self-taught Software Developer from Brazil specializing in Cloud Computing, DevOps, Backend/Frontend Development and Programming Competitions with a strong passion for problem-solving.
 
 ---
 
