@@ -139,7 +139,7 @@ A self-taught Software and Game Developer from Brazil specializing in Cloud Comp
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=uarlley&theme=tokyonight&layout=compact&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=uarlley&theme=tokyonight&layout=compact&langs_count=9&custom_title=Technologies" 
   />
 
 </p>
