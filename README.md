@@ -132,7 +132,6 @@ A self-taught Software and Game Developer from Brazil specializing in Cloud Comp
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    width="460"
     src="https://github-readme-stats.vercel.app/api?username=uarlley&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
@@ -140,7 +139,6 @@ A self-taught Software and Game Developer from Brazil specializing in Cloud Comp
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      width="350"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=uarlley&theme=tokyonight&layout=compact&langs_count=9" 
   />
 
