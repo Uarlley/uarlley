@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uarlley&layout=donut)](https://github.com/uarlley/github-readme-stats&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uarlley&layout=donut)](https://github.com/uarlley/github-readme-stats&layout=compact)
